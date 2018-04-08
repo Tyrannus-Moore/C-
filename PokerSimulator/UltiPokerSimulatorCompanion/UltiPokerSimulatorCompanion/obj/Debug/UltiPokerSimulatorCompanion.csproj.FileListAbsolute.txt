@@ -1,0 +1,10 @@
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.csprojResolveAssemblyReference.cache
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.Truck.resources
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.Properties.Resources.resources
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.csproj.GenerateResource.Cache
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\bin\Debug\UltiPokerSimulatorCompanion.exe.config
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\bin\Debug\UltiPokerSimulatorCompanion.exe
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\bin\Debug\UltiPokerSimulatorCompanion.pdb
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.exe
+C:\Users\61040\documents\visual studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.pdb
+C:\Users\61040\Documents\Visual Studio 2017\Projects\UltiPokerSimulatorCompanion\UltiPokerSimulatorCompanion\obj\Debug\UltiPokerSimulatorCompanion.csproj.CoreCompileInputs.cache
