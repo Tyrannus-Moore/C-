@@ -1,0 +1,7 @@
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\bin\Debug\PrePokerSimulator.exe.config
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\bin\Debug\PrePokerSimulator.exe
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\bin\Debug\PrePokerSimulator.pdb
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\obj\Debug\PrePokerSimulator.csprojResolveAssemblyReference.cache
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\obj\Debug\PrePokerSimulator.exe
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\obj\Debug\PrePokerSimulator.pdb
+C:\Users\61040\Documents\Visual Studio 2017\Projects\PrePokerSimulator\PrePokerSimulator\obj\Debug\PrePokerSimulator.csproj.CoreCompileInputs.cache
